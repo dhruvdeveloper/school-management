@@ -1,1 +1,1 @@
-Hello, this is start of our project.
+I have used Google's coding standards https://google.github.io/styleguide/javaguide.html. 
